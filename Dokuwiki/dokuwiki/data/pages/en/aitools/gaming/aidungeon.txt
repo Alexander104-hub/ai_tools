@@ -1,0 +1,15 @@
+====== AIDungeon ======
+
+AIDungeon is an AI-powered gaming service that allows users to create their own stories and go on a journey of imagination. In this AI-generated world, users can play as a character and explore the environment through a flexible storytelling system.
+
+AIDungeon allows you to create a variety of stories, from romantic comedies to epic fantasy tales. AI creates characters and storylines that lead the story to an exciting and unpredictable ending. This is a journey through the world where the only limitation is the user's imagination.
+
+**AIDungeon Features:**
+
+    • Create a unique character and explore a detailed world.
+    • Creation of storylines and characters using artificial intelligence.
+    • Travel through a world full of surprises and adventures.
+
+~~DISCUSSION~~
+
+{{tag>\"computer games\"}}

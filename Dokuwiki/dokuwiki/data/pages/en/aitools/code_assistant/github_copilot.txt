@@ -1,0 +1,16 @@
+====== GitHub Copilot ======
+
+{{:aitools:code_assistant:github_copilot.png?1000|}}
+
+GitHub Copilot is the ultimate coding assistant. With this AI-Pair programmer, you can receive suggestions for code and entire functions in real time directly from the editor. Powered by OpenAI Codex, Copilot is the ideal way to improve your coding productivity, accuracy, and efficiency. Whether you're a beginner or an experienced programmer, Copilot has you covered. It can provide you with personalized advice and coding suggestions, as well as alert you to potential bugs and errors. And because it's integrated into your editor, you can make changes to your code instantly. Copilot allows you to work smarter, faster and better. It's the perfect tool for streamlining your workflow so you can spend more time coding and less time debugging. Gain access to the latest features, tools, and technologies and take your programming skills to the next level.
+Co-Pilot: Use Cases and Features
+
+1. Automatically generate code and feature suggestions.
+
+2. Get individual recommendations on how to write code correctly.
+
+3. Alerts you to potential bugs and errors.
+
+~~DISCUSSION~~
+
+{{tag>programming}}

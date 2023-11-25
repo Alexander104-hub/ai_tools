@@ -1,0 +1,23 @@
+====== Lexica ======
+
+Lexica is an innovative search engine for art lovers. It offers a unique collection of art images from around the world, allowing users to explore the world of art with ease. Whether you're looking for a specific piece of art or just looking for inspiration, Lexica makes it easy to find what you're looking for. The Stable Diffusion search engine is a powerful tool that allows users to quickly and accurately search for artwork. It uses advanced algorithms that filter a vast library of artistic images and provide relevant results to users. With an easy-to-use interface, users can refine their search results using detailed filters and keywords. In addition to providing users with access to a large collection of art, Lexica also offers useful features and services. Users can save their favorite works of art and create personal collections. They can also share their art with friends and family or buy prints of their favorite pieces.
+Lexica: Use Cases and Features
+
+1. Find art quickly and accurately using the Stable Diffusion search engine.
+
+2. Refine your search results using detailed filters and keywords.
+
+3. Easily save, share and buy prints of your favorite art.
+<poll [1]>
+  [how would you rate this page?]
+
+  * [1]
+  * [2]
+  * [3]
+  * [4]
+  * [5]
+</poll>
+
+~~DISCUSSION~~
+
+{{tag>art}}

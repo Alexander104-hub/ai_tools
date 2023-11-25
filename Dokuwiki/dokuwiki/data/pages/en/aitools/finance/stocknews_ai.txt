@@ -1,0 +1,17 @@
+====== Stocknews AI ======
+
+Stocknews AI is an artificial intelligence-based service that collects stock news from various sources. It provides features that can help users monitor market trends, identify potential investment opportunities, and make informed trading decisions.
+
+With Stocknews AI, users can track the performance of stocks, sectors and the stock market as a whole. The service also offers the ability to set up individual alerts to receive important news about stocks of interest.
+
+Stocknews AI's user interface is intuitive and provides quick and easy navigation, allowing users to quickly find the information they need.
+
+**Stocknews AI Features:**
+
+    • Receive personalized alerts about promotions of interest.
+    • Monitoring of stocks, sectors and the market as a whole.
+    • Fast and easy navigation with an intuitive user interface.
+
+~~DISCUSSION~~
+
+{{tag>/"finance/"}}

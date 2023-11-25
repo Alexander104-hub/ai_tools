@@ -1,0 +1,62 @@
+====== DokuWiki ======
+
+[[doku>wiki:dokuwiki|{{wiki:dokuwiki-128.png }}]] DokuWiki — это простая в использовании и универсальная программа с открытым исходным кодом. [[wp>wiki]] программное обеспечение, которое не требует базы данных. Пользователи любят его за чистоту и читабельность. [[wiki:syntax]]. Простота обслуживания, резервного копирования и интеграции делает его фаворитом администраторов. Встроенный [[doku>acl|access controls]] и [[doku>auth|authentication connectors]] делают «ДокуВики» особенно полезной в контексте предприятия, а большое количество [[doku>plugins]] вклад активного сообщества позволяет использовать широкий спектр вариантов использования, выходящих за рамки традиционной вики..
+
+Прочтите [[doku>manual|Руководство DokuWiki]], чтобы раскрыть всю мощь «ДокуВики».
+
+===== Скачивание =====
+
+«ДокуВики» доступна по адресу https://download.dokuwiki.org/.
+
+
+===== Читать далее =====
+
+Вся документация и дополнительная информация, кроме [[синтаксиса|описания синтаксиса]] хранится в DokuWiki по адресу [[doku>|www.dokuwiki.org]].
+
+**О «ДокуВики»**
+
+  * [[doku>features|A feature list]] :!:
+  * [[doku>users|Happy Users]]
+  * [[doku>press|Who wrote about it]]
+  * [[doku>blogroll|What Bloggers think]]
+  * [[https://www.wikimatrix.org/show/DokuWiki|Compare it with other wiki software]]
+
+**Installing DokuWiki**
+
+  * [[doku>requirements|System Requirements]]
+  * [[https://download.dokuwiki.org/|Download DokuWiki]] :!:
+  * [[doku>changes|Change Log]]
+  * [[doku>Install|How to install or upgrade]] :!:
+  * [[doku>config|Configuration]]
+
+**Using DokuWiki**
+
+  * [[doku>syntax|Wiki Syntax]]
+  * [[doku>manual|The manual]] :!:
+  * [[doku>FAQ|Frequently Asked Questions (FAQ)]]
+  * [[doku>glossary|Glossary]]
+
+**Customizing DokuWiki**
+
+  * [[doku>tips|Tips and Tricks]]
+  * [[doku>Template|How to create and use templates]]
+  * [[doku>plugins|Installing plugins]]
+  * [[doku>development|Development Resources]]
+
+**DokuWiki Feedback and Community**
+
+  * [[doku>newsletter|Subscribe to the newsletter]] :!:
+  * [[doku>mailinglist|Join the mailing list]]
+  * [[https://forum.dokuwiki.org|Check out the user forum]]
+  * [[doku>irc|Talk to other users in the IRC channel]]
+  * [[https://github.com/splitbrain/dokuwiki/issues|Submit bugs and feature wishes]]
+  * [[doku>thanks|Some humble thanks]]
+
+
+===== Copyright =====
+
+2004-2020 (c) Андреас Гор <andi@splitbrain.org>((Пожалуйста, не обращайтесь ко мне за помощью и поддержкой — используйте [[doku>список рассылки]] или [[https://forum.dokuwiki.org| форум]] вместо этого)) и Сообщество «ДокуВики»
+
+Движок DokuWiki распространяется под лицензией [[https://www.gnu.org/licenses/gpl.html|GNU General Public License]] версии 2. Если вы используете DokuWiki в своей компании, рассмотрите возможность [[doku>пожертвовать|пожертвовать] ] несколько баксов ;-).
+
+Не знаете, что это значит? См. [[doku>faq:license|Часто задаваемые вопросы по лицензиям]].

@@ -1,0 +1,14 @@
+====== Ludo ======
+
+Ludo is a platform for creating games powered by artificial intelligence. It provides tools that help developers bring their game ideas to life. Artificial intelligence-based tools help create games with high-quality graphics and interesting storylines.
+
+Ludo's interface is intuitive and easy to use, making game development accessible to everyone, from beginners to experienced game designers. The AI-powered engine gives developers the tools and knowledge needed to create engaging and commercially successful games.
+
+**Ludo Features:**
+  * Create high-quality visual effects using AI-powered tools.
+  * Create interesting storylines using an engine based on artificial intelligence.
+  * Using an intuitive and user-friendly interface for game development.
+
+~~DISCUSSION~~
+
+{{tag>\"computer games\"}}

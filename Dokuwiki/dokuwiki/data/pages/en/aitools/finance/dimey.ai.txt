@@ -1,0 +1,18 @@
+====== Dimey.AI ======
+
+Dimey.AI is an artificial intelligence-based service that provides workflow automation and productivity enhancements. It includes various features aimed at streamlining operations, such as task management, automated reporting, and predictive analysis.
+
+Using artificial intelligence, Dimey.AI can help organizations reduce costs, increase efficiency, and improve decision making. Dimey.AI is suitable for companies of all sizes, from startups to large enterprises.
+
+The platform is intuitive and easy to use, without requiring special programming skills. The dashboard provides real-time performance information so you can identify areas for improvement and maximize your return on investment.
+
+**Dimey.AI Features:**
+
+    Automate task management to save time and resources.
+    Using predictive analytics to improve decision making.
+    Use the dashboard to get real-time information.
+
+~~DISCUSSION~~
+
+{{tag>/"finance/"}}
+

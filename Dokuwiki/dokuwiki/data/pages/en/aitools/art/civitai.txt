@@ -1,0 +1,16 @@
+====== Civitai ======
+
+Civitai is a hub where you can create art using artificial intelligence. This is a place where artists and hobbyists can access a collection of models that is constantly updated. Here you can share your work and get feedback.
+Civitai offers a large selection of AI-generated art, allowing you to discover new ways to use AI in your work. The platform is free and open source, making it accessible to anyone with an Internet connection.
+
+Civitai is constantly improving and expanding, so you can always find something new and inspiring here. This place is suitable for both experienced artists looking for new techniques and beginners looking to develop their skills.
+
+**Civitai features:**
+
+    • Create unique AI art using Civitai models.
+    • Share creations and receive feedback.
+    • Explore a large selection of art created by artificial intelligence.
+
+~~DISCUSSION~~
+
+{{tag>art}}

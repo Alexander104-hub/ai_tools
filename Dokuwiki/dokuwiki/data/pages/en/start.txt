@@ -1,0 +1,8 @@
+====== Artificial Intelligence Tools ======
+
+Welcome to the home page of your AI Tools knowledge base. Here you will find information about various tools and technologies that are used in the field of artificial intelligence.
+
+You can also read the AI ​​Tools Knowledge Base guide here: [[guide| Management]].
+
+{{tag>\"tag with spaces\" tag2}}
+

@@ -1,0 +1,50 @@
+====== User guide ======
+
+**Page Search**
+
+To search for a page, use the search form at the top of the page. - Entering keywords: In the search form field, enter keywords related to the information you are looking for. This could be the title of the page or any word that might be on the page. - Search: After entering your keywords, click the Search button or press the Enter key on your keyboard. - View search results: You will see a list of pages that match your query. Click on the page title to go to it.
+
+<nodisp user>
+
+**Page Creation**
+
+To create a new page, use the form below.
+      - **Entering a page title**: In the form field, enter the name of the new page you want to create. The page title must be unique and not contain spaces.
+      - **Select directory**: From the drop-down list, select the directory in which you want to create a new page. In your case, this will be one of the directories inside the community directory.
+      - **Creating a page**: After you have entered the page name and selected the directory, click the “Create Page” button. You will be redirected to the edit page for your new page.
+
+- **Edit Page**: On the edit page you can add content to your new page. You can use various wiki tags to format text, add links, images, etc...
+      - **Save Page**: Once you have added all the required content to your page, click the “Save” button to save your page.
+**Form (Select a section for the page):**
+{{NEWPAGE}}
+
+**Edit page**
+To edit an existing page, follow these steps:
+      - **Selecting a page to edit**: Find the page you want to edit. This can be done using the search function or browsing directories.
+      - **Go to editing mode**: There is an “Edit” button on the page. Click on it to go into editing mode.
+      - **Making changes**: In edit mode, you can make any changes to the contents of the page. You can add, delete or change text, add images, links, etc...
+
+- **Preview**: Before saving changes, it is recommended to use the Preview feature to make sure everything looks the way you want.
+      - **Save Changes**: If you are satisfied with the changes made, click the “Save” button to save the changes.
+</nodisp>
+
+<nodisp admin>
+
+**Deleting a page**
+
+If you want to delete a page, follow these steps:
+      - **Select page to delete**: Find the page you want to delete.
+      - **Deleting a page**: There is a “Delete” button on the page.
+      - Click on it to delete the page. Please be careful as deleting a page is irreversible.
+
+**Page recovery**
+
+If you accidentally deleted a page, you can restore it by following these steps:
+      - **Go to remote page**: Enter the URL of the remote page in the browser's address bar.
+      - **Page Restore**: The page will have a “Restore” button.
+      - Click on it to restore the page.
+
+</nodisp>
+<nodisp user>
+**Page syntax:** [[wiki:syntax|syntax page]].
+</nodisp>
